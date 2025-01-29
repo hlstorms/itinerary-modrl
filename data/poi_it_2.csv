@@ -1,0 +1,19 @@
+id;name_id;category_it;tags;covered_by_verona_card;address;latitude;longitude;Time_Visit;max_crowd
+42;Museo archeologico al teatro romano;Musei e Centri Espositivi;Architecture, History;riduzione;Piazzetta Martiri della Libertà - Verona1;4544708;1100186;60;90
+49;Anfiteatro Arena;Monumenti;Architecture, History;riduzione;Anfiteatro Arena, Piazza Bra - Verona1;45439116;10994672;70;300
+52;complesso del Duomo;Chiese;Architecture, History, Religious Sites;riduzione percentuale;Piazza Duomo - Verona1;454470766;109967941;30;180
+54;Basilica di Santa Anastasia;Chiese;Architecture, Religious Sites;riduzione percentuale;Piazza Santa Anastasia - Verona1;45445176;10999825;30;190
+58;Palazzo della Ragione o del Comune;Monumenti;Architecture, History;no;piazza dei Signori - Verona1;454431191;109979367;60;30
+59;Torre dei Lamberti;Monumenti;Architecture, History;riduzione;Via dalla Costa, 2  - Verona1;454429629;109976605;45;190
+61;Casa di Giulietta;Musei e Centri Espositivi;Architecture, History;riduzione;Via Cappello, 23 - Verona1;454418507;109984303;30;220
+62;Chiesa di San Fermo;Chiese;Architecture, Religious Sites;riduzione percentuale;Stradone san Fermo - Verona1;454391952;110000235;25;70
+63;Basilica di San Zeno;Chiese;Architecture, Religious Sites;riduzione percentuale;Piazza San Zeno - Verona1;45442372;109786355;30;20
+71;Museo di Castelvecchio;Musei e Centri Espositivi;Arts, Architecture, History;gratis;Corso Castelvecchio, 2 - Verona1;454397711;109878302;90;160
+75;Giardino Giusti;Monumenti;Architecture, Nature;riduzione;Via giardino Giusti, 2 - Verona1;454436667;110071608;60;5
+76;Museo Lapidario Maffeiano;Musei e Centri Espositivi;Arts, History;gratis;Piazza Bra 28 - Verona1;454382674;109910917;40;50
+201;Museo di Storia Naturale;Musei e Centri Espositivi;History, Nature;riduzione;Lungadige Porta Vittoria 9, Verona1;454383803;110022014;90;
+202;"Museo degli Affreschi""G.B. Cavalcaselle"" e Tomba di Giulietta";Musei e Centri Espositivi;Arts, History;riduzione;Via Luigi da Porto 5, Verona1;454337465;109969899;90;70
+300;Museo Miniscalchi;Musei e Centri Espositivi;Arts, Architecture;riduzione;Via S. Mamaso, 2/A;4,54E+16;1,10E+16;90;
+301;Palazzo Maffei Casa Museo;Musei e Centri Espositivi;Arts, Architecture;riduzione;Piazza Erbe, 38;4,54E+16;1,10E+16;90;
+302;Museo Nazionale;Musei e Centri Espositivi;Arts, History;riduzione;Stradone S. Tomaso, 3;4,54E+15;1,10E+16;80;
+303;Eataly Verona;Ristorazione;Arts, Architecture;no;Via Santa Teresa, 12;4,54E+15;1,10E+15;50;
